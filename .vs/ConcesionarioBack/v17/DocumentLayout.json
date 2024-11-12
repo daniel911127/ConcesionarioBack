@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sinco-AYF\\ConcesionarioBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\infrastructure\\services\\motoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\infrastructure\\services\\motoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\domain\\dtos\\motodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\domain\\dtos\\motodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\validators\\carrovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\validators\\carrovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\validators\\motovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\validators\\motovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\controllers\\motocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\domain\\dtos\\carrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\domain\\dtos\\carrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\controllers\\listadocarrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\controllers\\listadocarrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\infrastructure\\services\\carroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\infrastructure\\services\\carroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\controllers\\listadomotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\controllers\\listadomotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\infrastructure\\services\\listadomotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\infrastructure\\services\\listadomotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|c:\\sinco-ayf\\concesionarioback\\concesionarioback\\domain\\interfaces\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B2F007-FCB4-465E-88FE-601F286B2893}|ConcesionarioBack\\ConcesionarioBack.csproj|solutionrelative:concesionarioback\\domain\\interfaces\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MotoController.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Controllers\\MotoController.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Controllers\\MotoController.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Controllers\\MotoController.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Controllers\\MotoController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:48:49.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarroController.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Controllers\\CarroController.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Controllers\\CarroController.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Controllers\\CarroController.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Controllers\\CarroController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:48:19.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarroValidator.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Validators\\CarroValidator.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Validators\\CarroValidator.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Validators\\CarroValidator.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Validators\\CarroValidator.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:47:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListadoCarroController.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Controllers\\ListadoCarroController.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Controllers\\ListadoCarroController.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Controllers\\ListadoCarroController.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Controllers\\ListadoCarroController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:46:21.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarroDto.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Domain\\DTOs\\CarroDto.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Domain\\DTOs\\CarroDto.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Domain\\DTOs\\CarroDto.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Domain\\DTOs\\CarroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:46:09.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotoValidator.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Validators\\MotoValidator.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Validators\\MotoValidator.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Validators\\MotoValidator.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Validators\\MotoValidator.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:37:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MotoDto.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Domain\\DTOs\\MotoDto.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Domain\\DTOs\\MotoDto.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Domain\\DTOs\\MotoDto.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Domain\\DTOs\\MotoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:30:04.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MotoService.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Infrastructure\\Services\\MotoService.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Infrastructure\\Services\\MotoService.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Infrastructure\\Services\\MotoService.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Infrastructure\\Services\\MotoService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:28:26.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarroService.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Infrastructure\\Services\\CarroService.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Infrastructure\\Services\\CarroService.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Infrastructure\\Services\\CarroService.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Infrastructure\\Services\\CarroService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:23:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListadoMotoController.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Controllers\\ListadoMotoController.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Controllers\\ListadoMotoController.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Controllers\\ListadoMotoController.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Controllers\\ListadoMotoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:24:53.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListadoMotoService.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Infrastructure\\Services\\ListadoMotoService.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Infrastructure\\Services\\ListadoMotoService.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Infrastructure\\Services\\ListadoMotoService.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Infrastructure\\Services\\ListadoMotoService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:24:42.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Program.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Program.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Program.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:17:27.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Domain\\Interfaces\\ICommonService.cs",
+              "RelativeDocumentMoniker": "ConcesionarioBack\\Domain\\Interfaces\\ICommonService.cs",
+              "ToolTip": "C:\\Sinco-AYF\\ConcesionarioBack\\ConcesionarioBack\\Domain\\Interfaces\\ICommonService.cs",
+              "RelativeToolTip": "ConcesionarioBack\\Domain\\Interfaces\\ICommonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:18:37.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
